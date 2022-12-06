@@ -11,7 +11,7 @@ The application's purpose is the tranform the environment into something pleasin
 - Create a new issue if you step across a bug.
 
 ### Project Setup
->This is a VR application mode using Unity 3D and Google Cardboard VR SDK.
+>This is a VR application made using Unity 3D and Google Cardboard VR SDK.
 
 - Fork the repository.
 - Clone the project to your local.
